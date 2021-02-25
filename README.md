@@ -29,6 +29,8 @@ Here in this code we give image and text to be concealed in an image and press *
 
  ## How to run?
  ```
+ git clone https://github.com/msz-coder/image-steganographer.git
+ cd image-steganographer
  pip3 install -r requirements.txt
  python3 steganographer.py
  ```
